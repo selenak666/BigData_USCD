@@ -14,7 +14,7 @@
   
   
   
-### Skills aquired:
+### Skills aquired: (on going...)
 
   - [x] Big Data
   - [ ] Neo4j
