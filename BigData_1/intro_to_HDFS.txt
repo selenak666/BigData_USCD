@@ -1,5 +1,9 @@
-introduction to HDFS
 ----------------------------------------------
+
+introduction to HDFS
+
+----------------------------------------------
+
  - copy a local file to HDFS
  $ hadoop fs -copyFromLocal words.txt
 
