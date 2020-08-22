@@ -15,5 +15,6 @@
   
   
 ### Skills aquired:
-
+ 
   Hadoop
+  ongoing...
