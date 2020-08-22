@@ -16,15 +16,15 @@
   
 ### Skills aquired:
 
-  - [] Big Data
-  - [] Neo4j
-  - [] Mongodb
-  - [] Apache Spark
+  - [x] Big Data
+  - [ ] Neo4j
+  - [ ] Mongodb
+  - [ ] Apache Spark
   - [x] Apache Hadoop
-  - [] Mapreduce
-  - [] Coudera
-  - [] Data Model
-  - [] Data Modeling
-  - [] Data Management
-  - [] Splunk
-  - [] Machine Learning Concepts
+  - [x] Mapreduce
+  - [x] Coudera
+  - [ ] Data Model
+  - [ ] Data Modeling
+  - [ ] Data Management
+  - [ ] Splunk
+  - [ ] Machine Learning Concepts
