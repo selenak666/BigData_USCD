@@ -1,6 +1,6 @@
-Introduction to Big Data
+#Introduction to Big Data
 
-Course Objectives:
+###Course Objectives:
   - Describe the Big Data landscape including examples of real world big data problems and approaches.
   - Identify the high level components in the data science life-cycle and associated data flow.
   - Explain the V’s of Big Data and why each impacts the collection, monitoring, storage, analysis and reporting, including their impact in the presence of multiple V’s.
