@@ -1,4 +1,4 @@
-Q. How many times does the word Cheshire occur in n alice.txt ?
+Q. How many times does the word Cheshire occur in alice.txt ?
 
 Sol. key> run wordcount on alice.txt
 --------------------------------------------------------------------
