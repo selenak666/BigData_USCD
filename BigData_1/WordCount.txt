@@ -25,3 +25,4 @@ Run wordcount program
 
  - View the WordCount results
  $ more local.txt
+  
