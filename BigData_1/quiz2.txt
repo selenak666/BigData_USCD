@@ -1,0 +1,7 @@
+
+Q. what is the median word length of words.txt ?
+
+Sol.
+$ hadoop jar /usr/jars/hadoop-examples.jar wordmedian words.txt out3
+
+> wordmedian prints the median length to the terminal : 4
