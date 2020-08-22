@@ -1,21 +1,22 @@
-### Q. How many times does the word Cheshire occur in n alice.txt ?
+Q. How many times does the word Cheshire occur in n alice.txt ?
 
-### Sol.
-> run wordcount on alice.txt
+Sol.
+  > run wordcount on alice.txt
 
-- step 1 : save 'alice.txt' to local file system
+  - step 1 : save 'alice.txt' to local file system
 
-- step 2 : copy it to HDFS
-$ hadoop fs -copyFromLocal alice.txt
+  - step 2 : copy it to HDFS
+  $ hadoop fs -copyFromLocal alice.txt
 
-- step 3 : run wordcount on alice.txt
-$ hadoop jar /usr/jars/hadoop-examples.jar wordcount alice.txt out2
+  - step 3 : run wordcount on alice.txt
+  $ hadoop jar /usr/jars/hadoop-examples.jar wordcount alice.txt out2
 
-- step 4 : copy the outcome of wordcount to local file system
-$ hadoop fs -copyToLocal out2/part-r-00000 local2.txt
+  - step 4 : copy the outcome of wordcount to local file system
+  $ hadoop fs -copyToLocal out2/part-r-00000 local2.txt
 
-- step 5 : view the wordcount of the word Cheshire
-$ more local2.txt
-$ /Cheshire
+  - step 5 : view the wordcount of the word Cheshire
+  $ more local2.txt
+  $ /Cheshire
 
-### Answer : 6 
+
+Answer : 6 
