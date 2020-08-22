@@ -1,9 +1,9 @@
 
 # Big Data Specialization
 
-##offered by UC San Diego
+## offered by UC San Diego
 
-###Courses :
+### Courses :
 
   1. Introduction to Big Data - certificate
   2. Big Data Modeling and Management Systems - certificate
@@ -14,6 +14,6 @@
   
   
   
-###Skills aquired:
+### Skills aquired:
 
   Hadoop
