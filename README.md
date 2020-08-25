@@ -5,8 +5,8 @@
 
 ### Courses :
 
-  1. Introduction to Big Data - certificate
-  2. Big Data Modeling and Management Systems - certificate
+  1. Introduction to Big Data - [certificate](https://www.coursera.org/account/accomplishments/certificate/HEKKRH4QVBTQ)
+  2. Big Data Modeling and Management Systems - [certificate](https://www.coursera.org/account/accomplishments/certificate/XYQQNLHMPJWT)
   3. Big Data Integration and Processing - certificate
   4. Machine Learning With Big Data - certificate
   5. Graph Analytics for Big Data - certificate
